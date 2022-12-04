@@ -29,6 +29,8 @@ image fetching failed****
   
  <code> sudo ip link set dev eth0 mtu 1400 </code>
   
+  More on this can be found here : https://stackoverflow.com/a/72407420/6457335
+  
   <b> PS : This was just a learning that I wanted to share so that you might not end up in similar situation. </b> <br>
   
 
